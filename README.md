@@ -1,4 +1,4 @@
-# Contribution #2411: Back to top button is cropped on mobile
+# Contribution #3: Back to top button is cropped on mobile
 
 **Contribution Number:** 3  
 **Student:** Yuan Yuan  
